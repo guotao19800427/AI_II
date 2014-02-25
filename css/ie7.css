@@ -1,0 +1,20 @@
+#topbanner,#wrapper,#linkplug,.leftbox,#focus,.center,#slideshow,.klipps,.contentbox,.left,#main,.publicad,.sak{
+	zoom:1;
+}
+.rightgeneral select{
+	width:169px;
+}
+.leftbox{
+	margin-bottom: .4em;
+}
+.topicbox h3{
+	height:20px;
+}
+.left2box td{
+	padding-bottom:.8em;
+}
+
+/* Only for IE7 below */
+#slideshow div.imagebox{
+	margin-bottom: 0;
+}

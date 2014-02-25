@@ -1,0 +1,30 @@
+/* Part I the same as IE7 */
+#topbanner,#wrapper,#linkplug,.leftbox,#focus,.center,#slideshow,.klipps,.contentbox,.left,#main,.publicad,.sak{
+	zoom:1;
+}
+.rightgeneral select{
+	width:169px;
+}
+.leftbox{
+	margin-bottom: .4em;
+}
+.topicbox h3{
+	height:20px;
+}
+.left2box td{
+	padding-bottom:.8em;
+}
+/* part II IE6 only */
+.columnbox{
+	margin-left:.3em;
+}
+.center{
+	margin-left: 5px;
+}
+#slideshow div.imagebox{
+	margin-left:6px;
+	margin-bottom: 0;
+}
+.left{
+	position: relative;
+}
