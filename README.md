@@ -1,2 +1,2 @@
 # AI_mockup
-Long long age, I made this HTML/CSS mockup compatible with IE6...
+A HTML/CSS mockup for a protol website. 
